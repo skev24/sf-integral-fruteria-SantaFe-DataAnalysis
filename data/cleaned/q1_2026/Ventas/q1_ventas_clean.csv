@@ -1,0 +1,375 @@
+﻿Producto,Fecha,Ventas,Precio Venta,Costo Unitario
+Achiote Grande,2026-03-09,3,1200,450
+Achiote Grande,2026-01-26,2,1300,750
+Achiote Grande,2026-02-02,2,1300,750
+Achiote Grande,2026-02-09,1,1200,550
+Achiote Grande,2026-02-16,1,1200,550
+Achiote Grande,2026-02-23,2,1200,550
+Achiote Grande,2026-03-30,4,1000,420
+Achiote Grande,2026-03-23,4,1000,420
+Achiote Grande,2026-03-16,6,1000,420
+Achiote Grande,2026-01-19,5,1300,750
+Achiote Grande,2026-03-02,2,1200,450
+Achiote Pequeño 100g,2026-03-09,4,600,250
+Achiote Pequeño 100g,2026-02-02,9,600,250
+Achiote Pequeño 100g,2026-02-16,8,600,250
+Achiote Pequeño 100g,2026-03-02,6,600,250
+Achiote Pequeño 100g,2026-03-16,5,600,250
+Achiote Pequeño 100g,2026-03-30,4,600,250
+Achiote Pequeño 100g,2026-02-23,3,600,250
+Achiote Pequeño 100g,2026-02-09,4,600,250
+Achiote Pequeño 100g,2026-01-26,9,600,250
+Achiote Pequeño 100g,2026-03-23,1,600,250
+Achiote Pequeño 100g,2026-01-19,3,600,250
+Arándanos,2026-02-23,8,1800,1200
+Arándanos,2026-02-16,14,1800,1200
+Arándanos,2026-03-23,5,1800,1200
+Arándanos,2026-01-26,7,1800,1200
+Arándanos,2026-03-09,9,1800,1200
+Arándanos,2026-01-19,7,1800,1200
+Arándanos,2026-03-30,4,1800,1200
+Arándanos,2026-02-09,11,1800,1200
+Arándanos,2026-03-16,9,1800,1200
+Arándanos,2026-03-02,16,1800,1200
+Arándanos,2026-02-02,8,1800,1200
+Canasta mediana,2026-03-30,0,3500,2000
+Canasta mediana,2026-01-26,1,3500,2000
+Canasta mediana,2026-02-09,0,3500,2000
+Canasta mediana,2026-03-23,0,3500,2000
+Canasta mediana,2026-03-16,1,3500,2000
+Canasta mediana,2026-02-23,1,3500,2000
+Canasta mediana,2026-02-16,0,3500,2000
+Canasta mediana,2026-03-02,0,3500,2000
+Canasta mediana,2026-03-09,0,3500,2000
+Canasta mediana,2026-01-19,0,3500,2000
+Canasta mediana,2026-02-02,0,3500,2000
+Canela en astilla 14g,2026-03-23,9,500,210
+Canela en astilla 14g,2026-02-09,10,500,210
+Canela en astilla 14g,2026-01-19,10,500,210
+Canela en astilla 14g,2026-03-09,5,500,210
+Canela en astilla 14g,2026-02-02,10,500,210
+Canela en astilla 14g,2026-02-23,7,500,210
+Canela en astilla 14g,2026-01-26,12,500,210
+Canela en astilla 14g,2026-03-30,6,500,210
+Canela en astilla 14g,2026-03-02,12,500,210
+Canela en astilla 14g,2026-03-16,14,500,210
+Canela en astilla 14g,2026-02-16,9,500,210
+Canela en polvo 46g,2026-03-16,0,500,240
+Canela en polvo 46g,2026-02-16,2,500,240
+Canela en polvo 46g,2026-02-09,1,500,240
+Canela en polvo 46g,2026-03-23,1,500,240
+Canela en polvo 46g,2026-02-02,3,500,269
+Canela en polvo 46g,2026-01-26,5,500,269
+Canela en polvo 46g,2026-03-02,1,500,240
+Canela en polvo 46g,2026-02-23,3,500,240
+Canela en polvo 46g,2026-01-19,0,500,269
+Canela en polvo 46g,2026-03-09,1,500,240
+Canela en polvo 46g,2026-03-30,1,500,240
+Carao Puro Grande 750 ml,2026-03-23,0,5500,3050
+Carao Puro Grande 750 ml,2026-03-16,5,5500,3050
+Carao Puro Grande 750 ml,2026-03-30,0,5500,3050
+Carao Puro Grande 750 ml,2026-02-23,0,5500,3050
+Carao Puro Grande 750 ml,2026-01-26,3,5500,3050
+Carao Puro Grande 750 ml,2026-03-09,0,5500,3050
+Carao Puro Grande 750 ml,2026-01-19,0,5500,3050
+Carao Puro Grande 750 ml,2026-02-16,0,5500,3050
+Carao Puro Grande 750 ml,2026-02-09,0,5500,3050
+Carao Puro Grande 750 ml,2026-02-02,0,5500,3050
+Carao Puro Grande 750 ml,2026-03-02,0,5500,3050
+Carao Puro Mediano 350ml,2026-01-26,0,4500,2200
+Carao Puro Mediano 350ml,2026-03-16,4,4500,2200
+Carao Puro Mediano 350ml,2026-02-16,1,4500,2200
+Carao Puro Mediano 350ml,2026-02-09,0,4500,2200
+Carao Puro Mediano 350ml,2026-03-23,0,4500,2200
+Carao Puro Mediano 350ml,2026-01-19,0,4500,2200
+Carao Puro Mediano 350ml,2026-03-02,0,4500,2200
+Carao Puro Mediano 350ml,2026-03-30,0,4500,2200
+Carao Puro Mediano 350ml,2026-02-02,0,4500,2200
+Carao Puro Mediano 350ml,2026-02-23,0,4500,2200
+Carao Puro Mediano 350ml,2026-03-09,1,4500,2200
+Carao Puro Pequeño 200ml,2026-02-09,0,3500,1700
+Carao Puro Pequeño 200ml,2026-03-16,2,3500,1700
+Carao Puro Pequeño 200ml,2026-03-09,1,3500,1700
+Carao Puro Pequeño 200ml,2026-03-02,3,3500,1700
+Carao Puro Pequeño 200ml,2026-02-23,0,3500,1700
+Carao Puro Pequeño 200ml,2026-02-16,0,3500,1700
+Carao Puro Pequeño 200ml,2026-01-19,0,3500,1700
+Carao Puro Pequeño 200ml,2026-01-26,1,3500,1700
+Carao Puro Pequeño 200ml,2026-02-02,1,3500,1700
+Carao Puro Pequeño 200ml,2026-03-30,0,3500,1700
+Carao Puro Pequeño 200ml,2026-03-23,0,3500,1700
+Chan 100g,2026-02-09,4,1000,500
+Chan 100g,2026-01-26,7,1000,500
+Chan 100g,2026-03-09,3,1000,500
+Chan 100g,2026-02-23,7,1000,500
+Chan 100g,2026-03-16,3,1000,500
+Chan 100g,2026-03-30,1,1000,500
+Chan 100g,2026-01-19,5,1000,500
+Chan 100g,2026-03-02,2,1000,500
+Chan 100g,2026-02-02,5,1000,500
+Chan 100g,2026-02-16,3,1000,500
+Chan 100g,2026-03-23,1,1000,500
+Chia 100g,2026-03-23,6,1000,464
+Chia 100g,2026-02-09,6,1000,464
+Chia 100g,2026-02-16,8,1000,464
+Chia 100g,2026-03-02,6,1000,464
+Chia 100g,2026-02-02,5,1000,464
+Chia 100g,2026-03-30,6,1000,464
+Chia 100g,2026-03-16,7,1000,464
+Chia 100g,2026-01-26,5,1000,464
+Chia 100g,2026-02-23,8,1000,464
+Chia 100g,2026-01-19,6,1000,464
+Chia 100g,2026-03-09,6,1000,464
+Clavo de olor 15g,2026-03-02,3,500,221
+Clavo de olor 15g,2026-02-16,4,500,221
+Clavo de olor 15g,2026-02-23,7,500,221
+Clavo de olor 15g,2026-03-16,6,500,221
+Clavo de olor 15g,2026-03-09,8,500,221
+Clavo de olor 15g,2026-02-09,5,500,221
+Clavo de olor 15g,2026-01-19,4,500,221
+Clavo de olor 15g,2026-01-26,8,500,221
+Clavo de olor 15g,2026-03-23,5,500,221
+Clavo de olor 15g,2026-02-02,6,500,221
+Clavo de olor 15g,2026-03-30,3,500,221
+Crema 125g,2026-02-23,2,800,283
+Crema 125g,2026-03-16,0,800,283
+Crema 125g,2026-01-26,3,800,283
+Crema 125g,2026-03-30,1,800,283
+Crema 125g,2026-03-02,2,800,283
+Crema 125g,2026-02-02,1,800,283
+Crema 125g,2026-02-16,0,800,283
+Crema 125g,2026-01-19,0,800,283
+Crema 125g,2026-03-23,3,800,283
+Crema 125g,2026-03-09,0,800,283
+Crema 125g,2026-02-09,1,800,283
+Cúrcuma molida 60g,2026-02-09,4,500,183
+Cúrcuma molida 60g,2026-03-30,3,500,183
+Cúrcuma molida 60g,2026-02-23,4,500,183
+Cúrcuma molida 60g,2026-01-19,4,500,183
+Cúrcuma molida 60g,2026-03-02,5,500,183
+Cúrcuma molida 60g,2026-03-23,3,500,183
+Cúrcuma molida 60g,2026-03-09,0,500,183
+Cúrcuma molida 60g,2026-02-16,2,500,183
+Cúrcuma molida 60g,2026-03-16,2,500,183
+Cúrcuma molida 60g,2026-01-26,3,500,183
+Cúrcuma molida 60g,2026-02-02,6,500,183
+Hojas de Laurel 14g,2026-03-23,6,500,127
+Hojas de Laurel 14g,2026-01-19,6,500,127
+Hojas de Laurel 14g,2026-02-16,2,500,127
+Hojas de Laurel 14g,2026-02-23,6,500,127
+Hojas de Laurel 14g,2026-03-30,1,500,127
+Hojas de Laurel 14g,2026-02-02,9,500,127
+Hojas de Laurel 14g,2026-03-16,8,500,127
+Hojas de Laurel 14g,2026-02-09,5,500,127
+Hojas de Laurel 14g,2026-03-02,9,500,127
+Hojas de Laurel 14g,2026-01-26,1,500,127
+Hojas de Laurel 14g,2026-03-09,3,500,127
+Horchata 125g,2026-03-09,0,800,283
+Horchata 125g,2026-03-30,0,800,283
+Horchata 125g,2026-03-02,0,500,283
+Horchata 125g,2026-02-23,0,800,283
+Horchata 125g,2026-03-16,0,800,283
+Horchata 125g,2026-01-26,0,800,283
+Horchata 125g,2026-03-23,0,800,283
+Horchata 125g,2026-02-16,0,800,283
+Horchata 125g,2026-02-09,0,800,283
+Horchata 125g,2026-01-19,0,800,283
+Horchata 125g,2026-02-02,0,800,283
+Jamaica 70g,2026-02-09,10,1000,495
+Jamaica 70g,2026-01-26,8,1000,503
+Jamaica 70g,2026-03-02,8,1000,495
+Jamaica 70g,2026-03-23,7,1000,495
+Jamaica 70g,2026-02-23,9,1000,495
+Jamaica 70g,2026-03-16,13,1000,495
+Jamaica 70g,2026-03-09,8,1000,495
+Jamaica 70g,2026-01-19,5,1000,503
+Jamaica 70g,2026-02-16,5,1000,495
+Jamaica 70g,2026-02-02,8,1000,503
+Jamaica 70g,2026-03-30,7,1000,495
+Linaza 70g,2026-03-02,2,500,115
+Linaza 70g,2026-02-23,0,500,115
+Linaza 70g,2026-01-19,5,500,115
+Linaza 70g,2026-03-30,1,500,115
+Linaza 70g,2026-03-09,1,500,115
+Linaza 70g,2026-02-09,2,500,115
+Linaza 70g,2026-01-26,6,500,115
+Linaza 70g,2026-03-16,2,500,115
+Linaza 70g,2026-03-23,4,500,115
+Linaza 70g,2026-02-16,3,500,115
+Linaza 70g,2026-02-02,3,500,115
+Miel Grande Puriscal 900g,2026-03-23,1,6500,4750
+Miel Grande Puriscal 900g,2026-01-19,2,6500,4750
+Miel Grande Puriscal 900g,2026-03-09,1,6500,4750
+Miel Grande Puriscal 900g,2026-02-16,0,6500,4750
+Miel Grande Puriscal 900g,2026-02-09,0,6500,4750
+Miel Grande Puriscal 900g,2026-01-26,1,6500,4750
+Miel Grande Puriscal 900g,2026-03-02,1,6500,4750
+Miel Grande Puriscal 900g,2026-02-02,2,6500,4750
+Miel Grande Puriscal 900g,2026-03-16,0,6500,4750
+Miel Grande Puriscal 900g,2026-02-23,0,6500,4750
+Miel Grande Puriscal 900g,2026-03-30,1,6500,4750
+Miel Grande Tabarcia 1050g,2026-03-02,0,6000,4450
+Miel Grande Tabarcia 1050g,2026-03-09,0,6000,4450
+Miel Grande Tabarcia 1050g,2026-02-16,0,6000,4450
+Miel Grande Tabarcia 1050g,2026-02-02,0,6000,4450
+Miel Grande Tabarcia 1050g,2026-03-23,0,6000,4450
+Miel Grande Tabarcia 1050g,2026-02-09,1,6000,4450
+Miel Grande Tabarcia 1050g,2026-02-23,1,6000,4450
+Miel Grande Tabarcia 1050g,2026-01-26,0,6000,4450
+Miel Grande Tabarcia 1050g,2026-01-19,0,6000,4450
+Miel Grande Tabarcia 1050g,2026-03-30,0,6000,4450
+Miel Grande Tabarcia 1050g,2026-03-16,2,6000,4450
+Miel Mediana Puriscal 420g,2026-01-26,0,4000,2750
+Miel Mediana Puriscal 420g,2026-03-23,1,4000,2650
+Miel Mediana Puriscal 420g,2026-03-09,1,4000,2650
+Miel Mediana Puriscal 420g,2026-02-02,4,4000,2750
+Miel Mediana Puriscal 420g,2026-03-30,3,4000,2650
+Miel Mediana Puriscal 420g,2026-03-02,1,4000,2650
+Miel Mediana Puriscal 420g,2026-03-16,3,4000,2650
+Miel Mediana Puriscal 420g,2026-02-23,0,4000,2750
+Miel Mediana Puriscal 420g,2026-02-16,0,4000,2750
+Miel Mediana Puriscal 420g,2026-01-19,1,4000,2750
+Miel Mediana Puriscal 420g,2026-02-09,1,4000,2750
+Miel Mediana Tabarcia 500g,2026-02-16,0,4000,2300
+Miel Mediana Tabarcia 500g,2026-01-19,0,4000,2300
+Miel Mediana Tabarcia 500g,2026-03-09,0,4000,2300
+Miel Mediana Tabarcia 500g,2026-03-16,0,4000,2300
+Miel Mediana Tabarcia 500g,2026-03-23,2,4000,2300
+Miel Mediana Tabarcia 500g,2026-02-02,0,4000,2300
+Miel Mediana Tabarcia 500g,2026-03-02,1,4000,2300
+Miel Mediana Tabarcia 500g,2026-02-09,0,4000,2300
+Miel Mediana Tabarcia 500g,2026-02-23,2,4000,2300
+Miel Mediana Tabarcia 500g,2026-01-26,0,4000,2300
+Miel Mediana Tabarcia 500g,2026-03-30,0,4000,2300
+Miel Pequeña Puriscal 210g,2026-03-23,1,3000,1500
+Miel Pequeña Puriscal 210g,2026-01-19,1,3000,1500
+Miel Pequeña Puriscal 210g,2026-02-09,3,3000,1500
+Miel Pequeña Puriscal 210g,2026-02-16,0,3000,1500
+Miel Pequeña Puriscal 210g,2026-03-30,1,3000,1500
+Miel Pequeña Puriscal 210g,2026-02-02,1,3000,1500
+Miel Pequeña Puriscal 210g,2026-01-26,1,3000,1500
+Miel Pequeña Puriscal 210g,2026-02-23,1,3000,1500
+Miel Pequeña Puriscal 210g,2026-03-16,0,3000,1500
+Miel Pequeña Puriscal 210g,2026-03-02,5,3000,1500
+Miel Pequeña Puriscal 210g,2026-03-09,3,3000,1500
+Miel Pequeña Tabarcia 200g,2026-03-23,4,2500,1400
+Miel Pequeña Tabarcia 200g,2026-03-16,0,2500,1400
+Miel Pequeña Tabarcia 200g,2026-03-30,2,2500,1400
+Miel Pequeña Tabarcia 200g,2026-01-19,3,2500,1375
+Miel Pequeña Tabarcia 200g,2026-02-09,2,2500,1400
+Miel Pequeña Tabarcia 200g,2026-02-23,3,2500,1400
+Miel Pequeña Tabarcia 200g,2026-01-26,2,2500,1375
+Miel Pequeña Tabarcia 200g,2026-03-02,1,2500,1400
+Miel Pequeña Tabarcia 200g,2026-02-16,0,2500,1400
+Miel Pequeña Tabarcia 200g,2026-03-09,0,2500,1400
+Miel Pequeña Tabarcia 200g,2026-02-02,2,2500,1400
+Miel de Carao Grande 750 ml,2026-02-23,0,5000,2200
+Miel de Carao Grande 750 ml,2026-03-30,0,5000,2200
+Miel de Carao Grande 750 ml,2026-03-16,1,5000,2200
+Miel de Carao Grande 750 ml,2026-02-16,1,5000,2200
+Miel de Carao Grande 750 ml,2026-03-02,0,5000,2200
+Miel de Carao Grande 750 ml,2026-03-23,0,5000,2200
+Miel de Carao Grande 750 ml,2026-01-26,0,5000,2200
+Miel de Carao Grande 750 ml,2026-01-19,0,5000,2200
+Miel de Carao Grande 750 ml,2026-02-09,0,5000,2200
+Miel de Carao Grande 750 ml,2026-02-02,2,5000,2200
+Miel de Carao Grande 750 ml,2026-03-09,0,5000,2200
+Miel de Carao Mediano 350ml,2026-03-02,0,4000,1700
+Miel de Carao Mediano 350ml,2026-03-09,1,4000,1700
+Miel de Carao Mediano 350ml,2026-02-16,1,4000,1700
+Miel de Carao Mediano 350ml,2026-01-19,1,4000,1700
+Miel de Carao Mediano 350ml,2026-03-16,0,4000,1700
+Miel de Carao Mediano 350ml,2026-03-23,2,4000,1700
+Miel de Carao Mediano 350ml,2026-03-30,1,4000,1700
+Miel de Carao Mediano 350ml,2026-02-09,0,4000,1700
+Miel de Carao Mediano 350ml,2026-01-26,0,4000,1700
+Miel de Carao Mediano 350ml,2026-02-02,0,4000,1700
+Miel de Carao Mediano 350ml,2026-02-23,0,4000,1700
+Miel de Carao Pequeño 200ml,2026-02-23,0,3000,1500
+Miel de Carao Pequeño 200ml,2026-02-16,1,3000,1500
+Miel de Carao Pequeño 200ml,2026-02-02,0,3000,1500
+Miel de Carao Pequeño 200ml,2026-03-30,0,3000,1500
+Miel de Carao Pequeño 200ml,2026-02-09,0,3000,1500
+Miel de Carao Pequeño 200ml,2026-03-23,0,3000,1500
+Miel de Carao Pequeño 200ml,2026-01-19,1,3000,1500
+Miel de Carao Pequeño 200ml,2026-03-02,0,3000,1500
+Miel de Carao Pequeño 200ml,2026-01-26,2,3000,1500
+Miel de Carao Pequeño 200ml,2026-03-09,1,3000,1500
+Miel de Carao Pequeño 200ml,2026-03-16,1,3000,1500
+Pinolillo 125g,2026-03-16,3,800,294
+Pinolillo 125g,2026-01-26,0,800,294
+Pinolillo 125g,2026-02-09,1,800,294
+Pinolillo 125g,2026-02-23,0,800,294
+Pinolillo 125g,2026-01-19,0,800,294
+Pinolillo 125g,2026-03-02,1,800,294
+Pinolillo 125g,2026-03-30,0,800,294
+Pinolillo 125g,2026-03-23,0,800,294
+Pinolillo 125g,2026-02-16,0,800,294
+Pinolillo 125g,2026-03-09,0,800,294
+Pinolillo 125g,2026-02-02,0,800,294
+Vinagre Blanco,2026-03-23,0,1000,497
+Vinagre Blanco,2026-01-19,1,1000,497
+Vinagre Blanco,2026-03-09,0,1000,497
+Vinagre Blanco,2026-03-02,0,1000,497
+Vinagre Blanco,2026-02-09,0,1000,497
+Vinagre Blanco,2026-01-26,0,1000,497
+Vinagre Blanco,2026-02-16,0,1000,497
+Vinagre Blanco,2026-03-30,0,1000,497
+Vinagre Blanco,2026-03-16,0,1000,497
+Vinagre Blanco,2026-02-23,1,1000,497
+Vinagre Blanco,2026-02-02,1,1000,497
+Vinagre Chilera,2026-01-26,3,1300,700
+Vinagre Chilera,2026-03-23,1,1300,700
+Vinagre Chilera,2026-02-16,3,1300,700
+Vinagre Chilera,2026-01-19,0,1300,700
+Vinagre Chilera,2026-02-23,3,1300,700
+Vinagre Chilera,2026-03-16,0,1300,700
+Vinagre Chilera,2026-03-09,0,1300,700
+Vinagre Chilera,2026-03-02,3,1300,700
+Vinagre Chilera,2026-02-02,3,1300,700
+Vinagre Chilera,2026-03-30,2,1300,700
+Vinagre Chilera,2026-02-09,0,1300,700
+Vinagre Oscuro,2026-03-30,0,1000,497
+Vinagre Oscuro,2026-01-26,1,1000,497
+Vinagre Oscuro,2026-01-19,0,1000,497
+Vinagre Oscuro,2026-02-23,1,1000,497
+Vinagre Oscuro,2026-02-02,0,1000,497
+Vinagre Oscuro,2026-02-16,0,1000,497
+Vinagre Oscuro,2026-03-09,1,1000,497
+Vinagre Oscuro,2026-03-23,0,1000,497
+Vinagre Oscuro,2026-03-02,0,1000,497
+Vinagre Oscuro,2026-03-16,0,1000,497
+Vinagre Oscuro,2026-02-09,0,1000,497
+Vinagre de Guineo,2026-01-19,3,1000,500
+Vinagre de Guineo,2026-02-16,6,1000,500
+Vinagre de Guineo,2026-01-26,2,1000,500
+Vinagre de Guineo,2026-03-30,2,1000,500
+Vinagre de Guineo,2026-02-23,0,1000,500
+Vinagre de Guineo,2026-02-09,4,1000,500
+Vinagre de Guineo,2026-03-23,4,1000,500
+Vinagre de Guineo,2026-03-16,3,1000,500
+Vinagre de Guineo,2026-02-02,7,1000,500
+Vinagre de Guineo,2026-03-02,5,1000,500
+Vinagre de Guineo,2026-03-09,3,1000,500
+Vinagre de Manzana 1000ml,2026-03-16,0,2400,1566
+Vinagre de Manzana 1000ml,2026-03-30,0,2400,1566
+Vinagre de Manzana 1000ml,2026-02-09,0,2400,1566
+Vinagre de Manzana 1000ml,2026-02-23,0,2400,1566
+Vinagre de Manzana 1000ml,2026-03-02,0,2400,1566
+Vinagre de Manzana 1000ml,2026-03-09,0,2400,1566
+Vinagre de Manzana 1000ml,2026-01-26,0,2400,1566
+Vinagre de Manzana 1000ml,2026-03-23,0,2400,1566
+Vinagre de Manzana 1000ml,2026-02-02,0,2400,1566
+Vinagre de Manzana 1000ml,2026-02-16,0,2400,1566
+Vinagre de Manzana 1000ml,2026-01-19,0,2400,1566
+Vinagre de Manzana 500ml,2026-03-02,0,1300,927
+Vinagre de Manzana 500ml,2026-02-02,0,1300,927
+Vinagre de Manzana 500ml,2026-02-23,2,1300,927
+Vinagre de Manzana 500ml,2026-03-30,0,1300,927
+Vinagre de Manzana 500ml,2026-03-16,0,1300,927
+Vinagre de Manzana 500ml,2026-02-16,1,1300,927
+Vinagre de Manzana 500ml,2026-02-09,1,1300,927
+Vinagre de Manzana 500ml,2026-01-26,0,1300,927
+Vinagre de Manzana 500ml,2026-03-23,1,1300,927
+Vinagre de Manzana 500ml,2026-01-19,2,1300,927
+Vinagre de Manzana 500ml,2026-03-09,2,1300,927
